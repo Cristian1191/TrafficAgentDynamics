@@ -1,0 +1,9 @@
+pyproject.toml
+setup.py
+C:/Users/Cris_/OneDrive/Desktop/Python/simulador_trafico/cpp_core/src/helpers.cpp
+C:/Users/Cris_/OneDrive/Desktop/Python/simulador_trafico/cpp_core/src/nasch_core.cpp
+C:/Users/Cris_/OneDrive/Desktop/Python/simulador_trafico/python_interface/pybind_wrapper.cpp
+nasch_simulator.egg-info/PKG-INFO
+nasch_simulator.egg-info/SOURCES.txt
+nasch_simulator.egg-info/dependency_links.txt
+nasch_simulator.egg-info/top_level.txt
